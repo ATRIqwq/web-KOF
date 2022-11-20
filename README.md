@@ -1,2 +1,2 @@
-# web-KOF
+# Web-KOF
 练习Js的小项目
